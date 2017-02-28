@@ -1,6 +1,4 @@
-# Chat-Room-Simulation
-
-Client-Server Chat Room Simulation
+# Client-Server Chat Room Simulation
 
 Overview
 	
